@@ -123,4 +123,3 @@ self.addEventListener("fetch", function(evt) {
     })
   );
 });
-© 2021 GitHub, Inc.
