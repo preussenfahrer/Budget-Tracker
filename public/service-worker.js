@@ -1,8 +1,8 @@
 // Uncomment the lines below
-
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
+  '/routes/api.js',
   '/styles.css',
   '/indexedDB.js',
   '/manifest.webmanifest',
