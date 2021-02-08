@@ -4,7 +4,7 @@
 
 [Description](https://github.com/preussenfahrer/budget-tracker#Description)
 
-[Deployed Link](https://github.com/preussenfahrer/budget-tracker#Deployed Link)
+[Deployed Link](https://github.com/preussenfahrer/budget-tracker#DeployedLink)
 
 [Usage](https://github.com/preussenfahrer/budget-tracker#Usage)
 
